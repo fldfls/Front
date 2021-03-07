@@ -1,5 +1,6 @@
 "use strict";
 function sum(x, y) {
-    return x + y;
+  return x + y;
 }
-sum(1, 3);
+
+console.log(sum(1, 5));
