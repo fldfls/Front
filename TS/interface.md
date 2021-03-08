@@ -91,3 +91,28 @@ a = ro; //오류
 ```TS
 a = ro as number[];
 ```
+
+## 상속
+
+```TS
+interface Person {
+    name: string;
+    age?: number;
+}
+interface Developer {
+    name: string;
+    age?: number;
+    skills: string[];
+}
+...
+
+//유사한 인터페이스를 상속으로 간단하게 표현
+
+ interface Person {
+    name: string;
+    age?: number;
+}
+interface Developer extends Person {
+    skills: string[];
+}
+```
