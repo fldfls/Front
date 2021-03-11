@@ -2,11 +2,11 @@
 
 Header처럼 페이지 전반에 공유되는 컴포넌트를 분리하여 사용. 스타일을 지정하고 페이지 레이아웃 및 기타 원하는 모든 작업에 해당 컴포넌트들을 사용할 수 있다.
 
-### Header 컴포넌트 (https://github.com/fldfls/Front/blob/main/Next/Training/practice/components/Header.js)
+### [Header 컴포넌트] (https://github.com/fldfls/Front/blob/main/Next/Training/practice/components/Header.js)
 
 ![헤더](file:///Users/WonGeun/Desktop/스크린샷%202021-03-11%20오후%203.51.39.png)
 
-### Layout 컴포넌트 (https://github.com/fldfls/Front/blob/main/Next/Training/practice/components/Layout.js)
+### [Layout 컴포넌트] (https://github.com/fldfls/Front/blob/main/Next/Training/practice/components/Layout.js)
 
 ![layout] (file:///Users/WonGeun/Desktop/스크린샷%202021-03-11%20오후%203.58.31.png)
 
