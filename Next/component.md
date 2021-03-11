@@ -4,11 +4,11 @@ Header처럼 페이지 전반에 공유되는 컴포넌트를 분리하여 사�
 
 ### [Header 컴포넌트](https://github.com/fldfls/Front/blob/main/Next/Training/practice/components/Header.js)
 
-![헤더](./heder.png);
+![헤더](./header.png)
 
 ### [Layout 컴포넌트](https://github.com/fldfls/Front/blob/main/Next/Training/practice/components/Layout.js)
 
-![layout](./layout.png);
+![layout](./layout.png)
 
 Layout component에서 {props.children}을 삭제함 Layout은 하위에 둔 내용들을 렌더링하지 못하면서 표시되는 페이지의 내용이 사라진다.
 
