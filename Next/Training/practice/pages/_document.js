@@ -1,6 +1,5 @@
 import Document, { Head, Main, NextScript } from "next/document";
 import React from "react";
-import "./index.css";
 export default class MyDocument extends Document {
   render() {
     return (
