@@ -4,7 +4,7 @@ Header처럼 페이지 전반에 공유되는 컴포넌트를 분리하여 사�
 
 ### [Header 컴포넌트](https://github.com/fldfls/Front/blob/main/Next/Training/practice/components/Header.js)
 
-![헤더](./heder.png);
+![헤더](./heder.png)
 
 ### [Layout 컴포넌트](https://github.com/fldfls/Front/blob/main/Next/Training/practice/components/Layout.js)
 
