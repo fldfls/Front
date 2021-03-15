@@ -18,7 +18,7 @@
 }
 ```
 
-- pages/index.js 생성
+- pages/index.js 생성 (Next에서 pages 폴더는 라우터 기능을 한다.)
 
 ```JS
 function Home() {
