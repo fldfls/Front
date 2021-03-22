@@ -1,7 +1,7 @@
-const bubbleArr = [11, 6, 5, 2, 10, 3, 17, 1, 20, 18, 30];
+const bubbleArr = [11, 6, 5, 2, 10, 3, 17, 1, 20, 18, 30, 29, 19, 7, 12, 8];
 
 function bubbleFun(arr) {
-  for (let i = 0; i < arr.length - 1; i++) {
+  for (let i = 0; i < arr.length; i++) {
     let temp;
     for (let j = 0; j < arr.length - 1 - i; j++) {
       if (arr[j] > arr[j + 1]) {
